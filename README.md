@@ -12,9 +12,20 @@
 
 -------
 
-📊 **本周github主要开发时间**
+📊 **GitHub 统计**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ori-yin)](https://github.com/ori-yin)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ori-yin&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ori-yin&layout=compact" alt="Top Languages" />
+</p>
 
 -------
-<p align="center"> <img src="https://gpvc.arturio.dev/HanXinzi-AI" alt="visitors"> </p>
+
+👁️ **访客统计**
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/ori-yin" alt="visitors" />
+</p>

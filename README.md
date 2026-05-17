@@ -12,13 +12,10 @@
 
 ### Find Me
 
-<a href="https://github.com/ori-yin">
-  <img align="right" src="https://grs.lolicon.app/api/top-langs/?username=ori-yin&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
-</a>
-
 [![](https://count.getloli.com/get/@ori-yin.github.readme?theme=rule34)](https://github.com/ori-yin)
 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ori-yin)
+[![](https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=&noverify=0&personal_qrcode_source=3)
+![](https://img.shields.io/badge/740879160-12B7F5?style=flat-square&logoColor=white)
 
 ### Skills
 

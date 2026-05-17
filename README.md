@@ -3,19 +3,22 @@
 ### About Me
 
 <a href="https://github.com/ori-yin">
-  <img align="right" src="https://grs.lolicon.app/api?username=ori-yin&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ori-yin&show_icons=true&hide_border=true&theme=tokyonight" width="400px" />
 </a>
 
 - 🔭 7年业务分析经验，AI新手
 - 🌱 热衷于**游戏与动漫**
 - 💬 **Python，机器学习，MySQL，AI**
 
+### GitHub Stats
+
+<a href="https://github.com/ori-yin">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ori-yin&layout=compact&hide_border=true&theme=tokyonight" width="400px" />
+</a>
+
 ### Find Me
 
-[![](https://count.getloli.com/get/@ori-yin.github.readme?theme=rule34)](https://github.com/ori-yin)
-
-[![](https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=&noverify=0&personal_qrcode_source=3)
-![](https://img.shields.io/badge/740879160-12B7F5?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/QQ-740879160-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)
 
 ### Skills
 

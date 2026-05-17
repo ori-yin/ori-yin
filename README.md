@@ -15,11 +15,11 @@
 📊 **GitHub 统计**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ori-yin&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ori-yin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ori-yin&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ori-yin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 -------
@@ -27,5 +27,5 @@
 👁️ **访客统计**
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/ori-yin" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ori-yin&color=blueviolet" alt="visitor badge" />
 </p>

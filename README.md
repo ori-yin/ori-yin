@@ -12,8 +12,6 @@
 
 <br clear="right"/>
 
----
-
 ### Find Me
 
 <a href="https://github.com/ori-yin">
@@ -23,8 +21,6 @@
 [![](https://count.getloli.com/get/@ori-yin.github.readme?theme=rule34)](https://github.com/ori-yin)
 
 <br clear="right"/>
-
----
 
 ### Skills
 

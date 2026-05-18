@@ -2,9 +2,9 @@
 
 ### About Me
 
-<a href="https://github.com/ori-yin">
-  <img align="right" src="https://grs.lolicon.app/api?username=ori-yin&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
-</a>
+<p align="right">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ori-yin&show_icons=true&hide_border=true" width="400"/>
+</p>
 
 - 🔭 7年业务分析经验，AI新手
 - 🌱 热衷于**游戏与动漫**
@@ -12,11 +12,11 @@
 
 ### Find Me
 
-<a href="https://github.com/ori-yin">
-  <img align="right" src="https://grs.lolicon.app/api/top-langs/?username=ori-yin&layout=compact&hide_border=true&icon_color=586069&title_color=a0a9af" width="400px" />
-</a>
+<p align="right">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ori-yin&layout=compact" width="400"/>
+</p>
 
-[![](https://count.getloli.com/get/@ori-yin.github.readme?theme=rule34)](https://github.com/ori-yin)
+![](https://komarev.com/ghpvc/?username=ori-yin)
 
 ### Skills
 
